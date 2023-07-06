@@ -1,2 +1,2 @@
-def perimeter_function():
-    pass
+def perimeter_function(a,b,c):
+    return a + b + c
